@@ -1,0 +1,5 @@
+RioCoin-qt usr/bin
+share/pixmaps/RioCoin32.xpm usr/share/pixmaps
+share/pixmaps/RioCoin80.xpm usr/share/pixmaps
+debian/RioCoin-qt.desktop usr/share/applications
+debian/RioCoin-qt.protocol usr/share/kde4/services/

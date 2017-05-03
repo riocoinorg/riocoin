@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=RioCoin
+Comment=RioCoin P2P Cryptocurrency
+Comment[ru]=RioCoin, P2P криптовалюта
+Comment[fr]=RioCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=RioCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/RioCoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/RioCoin80.xpm
+MimeType=x-scheme-handler/RioCoin;
+Categories=Office;

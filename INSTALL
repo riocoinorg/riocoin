@@ -1,0 +1,9 @@
+Building RioCoin
+
+See doc/readme-qt.rst for instructions on building RioCoin Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of RioCoin.
+
+See doc/build-*.txt for instructions on building RioCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of RioCoin.

@@ -1,0 +1,2 @@
+debian/bin/RioCoind usr/bin
+src/RioCoind usr/lib/RioCoin
